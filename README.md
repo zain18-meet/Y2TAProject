@@ -1,4 +1,4 @@
-# Y2TAProject
+# Y2 TAs Project
 
 Hi TAs, hope you're excited for the summer! (If not, then this project will take you around 97.4 hours)<br>
 You're supposed to create this <i>awesome</i> website that needs to cover most Y2 summer material.
