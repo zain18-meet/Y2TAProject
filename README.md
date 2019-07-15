@@ -5,9 +5,12 @@ You're supposed to create this <i>awesome</i> website that needs to cover most Y
 <br>
 <h2> Requirements </h2>
 <ul>
-<li>A</li>
-<li>B</li>
-<li>C</li>
+<li>The website should have a minimum of 3 pages.</li>
+<li>Good/Simple/Easy to understand Frontend.</li>
+<li>Backend: Use advanced Python and Flask.</li>
 </ul>
 
+In case you need to review some of the material a bit, feel free to go to this summer's slides <a href="tinyurl.com/Y2Material">here</a><br> 
 Hope you have fun working on this while keeping in mind CS is the best!
+
+<h4>Important: don't forget to fork before cloning!</h4>
