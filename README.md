@@ -6,7 +6,7 @@ You're supposed to create this <i>awesome</i> website that needs to cover most Y
 <h2> Requirements </h2>
 <ul>
 <li>The website should have a minimum of 3 pages.</li>
-<li>Good/Simple/Easy to understand Frontend.</li>
+<li>Good/Simple/Easy to understand/use Frontend.</li>
 <li>Backend: Use advanced Python and Flask.</li>
 </ul>
 
