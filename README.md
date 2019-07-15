@@ -10,7 +10,9 @@ You're supposed to create this <i>awesome</i> website that needs to cover most Y
 <li>Backend: Use advanced Python and Flask.</li>
 </ul>
 
-In case you need to review some of the material a bit, feel free to go to this summer's slides <a href="tinyurl.com/Y2Material">here</a><br> 
+In case you need to review some of the material a bit, feel free to go to the summer's slides <a href="www.tinyurl.com/Y2Material">here</a><br> 
 Hope you have fun working on this while keeping in mind CS is the best!
 
 <h4>Important: don't forget to fork before cloning!</h4>
+<br>
+<h3>Good Luck!</h3>
