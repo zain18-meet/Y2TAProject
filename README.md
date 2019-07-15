@@ -14,5 +14,4 @@ In case you need to review some of the material a bit, feel free to go to the su
 Hope you have fun working on this while keeping in mind CS is the best!
 
 <h4>Important: don't forget to fork before cloning!</h4>
-<br>
 <h3>Good Luck!</h3>
