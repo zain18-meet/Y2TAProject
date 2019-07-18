@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+<center><H1> WELCOME <br> TO YOUR <br> WEBSITE!!!! </H1></center>
+
+{% if current_user.is_authenticated %}
+ <center> <h1>{{ current_user.name }}!</h1> </center>
+{% endif %}<br>
+
+
+<center><a href="/logout"> LOGOUT </a></center>
+
+
+{% endblock %}
